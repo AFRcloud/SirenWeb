@@ -25,9 +25,19 @@ const bugOptions = [
   { value: "support.zoom.us", label: "ZOOM" },
   { value: "zoomgov.com", label: "ZOOMGOV" },
   { value: "ava.game.naver.com", label: "WLG" },
-  { value: "graph.instagram.com", label: "IG" }
+  { value: "graph.instagram.com", label: "IG" },
+  { value: "df.game.naver.com", label: "DNF" },
+  { value: "quiz.int.vidio.com", label: "VIDIO" },
+  { value: "api24-normal-alisg.tiktokv.com", label: "TIKTOK" },
+  { value: "api22-normal-c-alisg.tiktokv.com", label: "TIKTOK 2" },  
+  { value: "zaintest.vuclip.com", label: "VUCLIP" },
+  { value: "help.viu.com", label: "VIU" },
+  { value: "grabacademyportal.grab.com", label: "GRAB" },
+  { value: "live.iflix.com", label: "IFLIX" },
+  { value: "store.linefriends.com", label: "LINE" },
+  { value: "cache.netflix.com", label: "NETFLIX" },
+  { value: "customlinks.appsflyer.com", label: "APPSFLYER" }
 ];
-
 
 // DOM elements
 const proxyListSection = document.getElementById("proxy-list-section")
